@@ -1,17 +1,19 @@
 # Problem Set 4
 You should feel comfortable with GitHub by now. If you're not, come to office hours with me or the TAs.
 
-If you think you see an error or typo, let me know! I will update [this version of the repo](https://github.com/CSCI1090-S24/ps4) with any corrections you suggest.
+If you think you see an error or typo, let me know! I will send out an email and post an announcement about any typos or errors you fine.
 
 The deliverables for this problem set are the following:
 
 * `ps4-part1.py`
 * `ps4-part2.py`
 
+**Remember** The sample code is your friend!
+
 **Remember** I now expect you to write comments in your code! One point will be deducted if you do not provide comments explaining your code. Here's what I would like commented this time:
 
-* Before every function, describe what it does and what its arguments are. Exception: you do not need to explain what `main()` is for.
-* Before every variable, explain what value it is holding. Exception: variables that appear after the keyword `for`.
+* Before every function you define, describe what it does and what its arguments are. Exception: you do not need to explain what `main()` is for.
+* Before every variable you declare, explain what value it is holding. Exception: variables that appear after the keyword `for`.
 
 **Remember** Now at the top of very files, you will include your honor pledge. The first four lines (comments) of every Python file should be this information. You will lose one point if you don't include these four lines.
 
@@ -48,7 +50,7 @@ wc, cc = get_counts(thefilename)
 
 3. Call `main()` by typing `main()` at the end of the file.
 
-**USING INPUT** When you use `input()`, it doesn't automatically insert a space before what the user enters. You don't want the user entering a space themselves, so you have to put the space at the very end of whatever you put in quotes as the argument to `input()`.
+**MAKING INPUT LOOK NICE** When you use `input()`, it doesn't automatically insert a space before what the user enters. You don't want the user entering a space themselves, so you have to put the space at the very end of whatever you put in quotes as the argument to `input()`.
 
 Here is some sample output using the file `testfile.txt`. Your output should be formatted exactly like this and have the same wording.
 
@@ -97,7 +99,7 @@ I created 24 four letter words that contained no duplicate letters.
 
 ---
 
-## Deadline: Monday, February 12, 2024, at 11:59pm EST
+## Deadline: Monday, September23, 2024, at 11:59pm EDT
 
 ## Deliverables
 
