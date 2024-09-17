@@ -99,7 +99,7 @@ I created 24 four letter words that contained no duplicate letters.
 
 ---
 
-## Deadline: Monday, September23, 2024, at 11:59pm EDT
+## Deadline: Monday, September 23, 2024, at 11:59pm EDT
 
 ## Deliverables
 
